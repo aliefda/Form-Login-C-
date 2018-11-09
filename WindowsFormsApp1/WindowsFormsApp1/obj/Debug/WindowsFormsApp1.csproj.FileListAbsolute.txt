@@ -1,0 +1,21 @@
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Alief\Kelas 11\KK3\Project Visual Studio\Form Login\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
